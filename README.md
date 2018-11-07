@@ -1,10 +1,10 @@
 # Blazor RSS Reader
-A simple RSS reader sample application built using Blazor V0.4.0 (https://blazor.net). Note: Blazor is a experimental tech from Microsoft
+A simple RSS reader sample application built using Blazor V0.4.0 (https://blazor.net). Note: Blazor is a experimental tech from Microsoft.
 
-# Live Site
+## Live Site
 Blazor RSS Reader is hosted on Azure and the here is the link to Live Demo - [https://gnl.me/blazorrssreader](https://gnl.me/blazorrssreader)
 
-# Screen Shots
+## Screen Shots
 
 ##### Splash Screen
 <img src="https://github.com/lohithgn/blazor-rss-reader/raw/master/assets/Splash.png" width="500" alt="Splash Screen" title="Splash Screen"  />
